@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 220" font-family="sans-serif" font-size="14">
+<rect width="760" height="220" fill="#12111a"/>
+<g fill="#1d1b2b" stroke="#6b5cff" stroke-width="1.5">
+<rect x="20" y="70" width="170" height="80" rx="10"/><rect x="295" y="70" width="170" height="80" rx="10"/><rect x="570" y="70" width="170" height="80" rx="10"/></g>
+<g fill="#e8e6f5" text-anchor="middle">
+<text x="105" y="105">M. terminal</text><text x="105" y="128" font-size="12" fill="#9a97b5">checks at start-up</text>
+<text x="380" y="105">GitHub Releases</text><text x="380" y="128" font-size="12" fill="#9a97b5">v* app · catalog-* data</text>
+<text x="655" y="105">Verify</text><text x="655" y="128" font-size="12" fill="#9a97b5">signature · version · hash</text>
+<text x="380" y="190" font-size="12" fill="#9a97b5">Nothing is installed until you press the button</text></g>
+<g stroke="#6b5cff" stroke-width="2" fill="none"><path d="M190 110H295"/><path d="M465 110H570"/></g>
+</svg>
