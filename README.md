@@ -8,10 +8,19 @@ Go to **[Releases](../../releases?q=v)** and pick the newest `v*` release (every
 
 | System | File |
 |---|---|
-| Windows 10/11 | `M-terminal-<version>-win-x64.exe` (installer) or `.zip` (portable) |
+| Windows 10/11 | `M-terminal-Setup-<version>.exe` (the terminal-style setup) · `.zip` (portable) |
 | Linux | `M-terminal-<version>-linux-x86_64.AppImage`, `.deb`, or `.tar.gz` |
 
 *Status: no `v*` app release has been published yet — the first one will appear here when the app is final.*
+
+## The setup
+
+The Windows setup looks like the app itself: an animated M, terminal prompts, and a live log of the files being installed.
+
+![welcome](docs/screenshots/setup-1-welcome.png)
+![options](docs/screenshots/setup-2-options.png)
+![installing](docs/screenshots/setup-3-installing.png)
+![done](docs/screenshots/setup-4-done.png)
 
 ## Updates (automatic, and always your choice)
 
