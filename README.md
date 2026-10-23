@@ -24,3 +24,17 @@ Go to **[Releases](../../releases?q=v)** and pick the newest `v*` release (every
 **Turn it off:** Settings → Database → *Check for updates on start*. The request sends nothing about you or your commands.
 
 **Manual install of a catalog:** not needed — the app downloads it for you.
+
+## Screenshots
+
+**Completion from the local catalog (offline)**
+![completion](docs/screenshots/completion-dark.png)
+
+**Updates: Settings → Database** — the signed catalog and the app, each with its own Check / Install button, plus the start-up check switch
+![updates](docs/screenshots/settings-updates.png)
+
+**Commands of the app itself** — type `ti help`
+![ti help](docs/screenshots/app-commands-help.png)
+
+**Settings → Keys** lists the shortcuts and the app commands
+![keys](docs/screenshots/settings-keys.png)
