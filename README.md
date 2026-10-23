@@ -9,9 +9,11 @@ Go to **[Releases](../../releases?q=v)** and pick the newest `v*` release (every
 | System | File |
 |---|---|
 | Windows 10/11 | `M-terminal-Setup-<version>.exe` (the terminal-style setup) · `.zip` (portable) |
-| Linux | `M-terminal-<version>-linux-x86_64.AppImage`, `.deb`, or `.tar.gz` |
+| Linux | `M-terminal-<version>-linux-x86_64.AppImage` (`chmod +x`, run), `.deb`, or `.tar.gz` |
 
-*Status: no `v*` app release has been published yet — the first one will appear here when the app is final.*
+**Latest: [v0.1.0](../../releases/tag/v0.1.0)** — Windows setup, portable zip, Linux AppImage / .deb / .tar.gz.
+
+*Not code-signed yet: Windows SmartScreen may warn ("More info" → "Run anyway").*
 
 ## The setup
 
